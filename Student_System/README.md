@@ -11,4 +11,4 @@
     -  `java .\Student_System\App.java`
 
 5. To Run Admin side
-    -  `java .\Student_System\AppAdmin.java`
+    -  `java .\Student_System\AppAdmin.java` (This is my Teammates Side)
